@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Project_PRN211_FALL2022
+build_property.RootNamespace = Project_PRN211_FALL2022
+build_property.ProjectDir = D:\Projeect_PRN211_FALL2022\Project_PRN211_FALL2022\Project_PRN211_FALL2022\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projeect_PRN211_FALL2022\Project_PRN211_FALL2022\Project_PRN211_FALL2022
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Account/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Admin/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Admin/BookingManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va2luZ01hbmFnZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Admin/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRXJyb3I0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Admin/RoomManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9vbU1hbmFnZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Admin/UserManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlck1hbmFnZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Room/Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Room/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Room/RoomDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxSb29tRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Room/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Shared/_EmptyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FbXB0eUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/User/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/User/UserBookingList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyQm9va2luZ0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/User/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projeect_PRN211_FALL2022/Project_PRN211_FALL2022/Project_PRN211_FALL2022/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
